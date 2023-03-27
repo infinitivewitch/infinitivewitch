@@ -19,5 +19,6 @@
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-infinitivewitch-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/infinitivewitch)<br />
 [![Kofi](https://img.shields.io/badge/Kofi-infinitivewitch-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white)](https://ko-fi.com/infinitivewitch)<br />
 [![Liberapay](https://img.shields.io/badge/Liberapay-infinitivewitch-F6C915.svg?style=for-the-badge&logo=Liberapay&logoColor=white)](https://liberapay.com/infinitivewitch)<br />
+[![Patreon](https://img.shields.io/badge/Patreon-InfinitiveWitch-FF424D.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/InfinitiveWitch)
 
 </div>
