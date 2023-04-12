@@ -12,6 +12,7 @@
 
 <h2>Code</h2>
 
+<a href="https://wakatime.com/@infinitivewitch"><br /><img src="https://wakatime.com/badge/user/b2322c6b-71b3-4f6b-b353-ca2769187b44.svg?style=for-the-badge" /><br /></a>
 <a href="https://gitlab.gnome.org/infinitivewitch"><br /><img src="https://img.shields.io/badge/GNOME-infinitivewitch-4A86CF.svg?style=for-the-badge&logo=GNOME&logoColor=white" /><br /></a>
 <a href="https://gitlab.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/GitLab-infinitivewitch-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white" /><br /></a>
 <a href="https://github.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/GitHub-infinitivewitch-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" /><br /></a>
