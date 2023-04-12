@@ -5,6 +5,7 @@
 <a href="https://www.reddit.com/user/infinitivewitch"><br /><img src="https://img.shields.io/badge/Reddit-infinitivewitch-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" /><br /></a>
 <a href="https://www.twitch.tv/infinitivewitch"><br /><img src="https://img.shields.io/badge/Twitch-infinitivewitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /><br /></a>
 <a href="https://anilist.co/user/infinitivewitch"><br /><img src="https://img.shields.io/badge/AniList-infinitivewitch-02A9FF.svg?style=for-the-badge&logo=AniList&logoColor=white" /><br /></a>
+<a href="https://www.youtube.com/@infinitivewitch"><br /><img src="https://img.shields.io/badge/YouTube-infinitivewitch-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /><br /></a>
 <a href="https://discordapp.com/users/1088800006959530056"><br /><img src="https://img.shields.io/badge/Discord-infinitivewitch%235530-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" /><br /></a>
 <a href="https://matrix.to/#/@infinitivewitch:fedora.im"><br /><img src="https://img.shields.io/badge/Matrix-%40infinitivewitch%3Afedora.im-000000.svg?style=for-the-badge&logo=Matrix&logoColor=white" /><br /></a>
 <a href="https://fe.disroot.org/@infinitivewitch"><br /><img src="https://img.shields.io/badge/Akkoma-%40infinitivewitch%40fe.disroot.org-FBA457.svg?style=for-the-badge&logo=Pleroma&logoColor=white" /><br /></a>
