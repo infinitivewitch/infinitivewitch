@@ -18,6 +18,7 @@
 <a href="https://git.disroot.org/infinitivewitch"><br /><img src="https://img.shields.io/badge/Forgejo-infinitivewitch-50162D.svg?style=for-the-badge&logo=Disroot&logoColor=white" /><br /></a>
 <a href="https://codeberg.org/infinitivewitch"><br /><img src="https://img.shields.io/badge/Codeberg-infinitivewitch-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white" /><br /></a>
 <a href="https://www.codewars.com/users/infinitivewitch"><br /><img src="https://img.shields.io/badge/Codewars-infinitivewitch-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" /><br /></a>
+<a href="https://stackoverflow.com/users/21598502"><br /><img src="https://img.shields.io/badge/Stack%20Overflow-user:21598502-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" /><br /></a>
 
 <h2>Sponsor</h2>
 
