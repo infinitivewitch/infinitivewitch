@@ -21,6 +21,13 @@
 <a href="https://www.codewars.com/users/infinitivewitch"><br /><img src="https://img.shields.io/badge/Codewars-infinitivewitch-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white" /><br /></a>
 <a href="https://stackoverflow.com/users/21598502"><br /><img src="https://img.shields.io/badge/Stack%20Overflow-user:21598502-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white" /><br /></a>
 
+<h2>Art</h2>
+
+<a href="https://pinterest.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/Pinterest-infinitivewitch-BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /><br /></a>
+<a href="https://www.instagram.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/Instagram-infinitivewitch-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /><br /></a>
+<a href="https://www.artstation.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/ArtStation-infinitivewitch-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white" /><br /></a>
+<a href="https://www.deviantart.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/DeviantArt-infinitivewitch-05CC47.svg?style=for-the-badge&logo=DeviantArt&logoColor=white" /><br /></a>
+
 <h2>Sponsor</h2>
 
 <a href="https://ko-fi.com/infinitivewitch"><br /><img src="https://img.shields.io/badge/Kofi-infinitivewitch-FF5E5B.svg?style=for-the-badge&logo=Ko-fi&logoColor=white" /><br /></a>
